@@ -1,0 +1,22 @@
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (never commit secrets!)
+.env
+
+# Backup files and dumps
+*.bak
+*.backup
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
